@@ -1,0 +1,58 @@
+* {
+  font-family: 'Outfit' !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Outfit' !important;
+}
+
+p,
+span,
+li {
+  font-family: 'Outfit';
+
+}
+
+.bg-light {
+  background-color: #f9f9f9 !important;
+}
+
+
+
+/* unvisited link */
+a:link {
+  color: #000;
+  text-decoration: none !important;
+}
+
+/* visited link */
+a:visited {
+  color: #000;
+}
+
+/* mouse over link */
+a:hover {
+  color: #0865a6;
+  text-decoration: none !important;
+}
+
+/* selected link */
+a:active {
+  color: #0865a6;
+}
+
+.more_link {
+  color: #0865a6;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.more_link a {
+  color: #0865a6;
+  text-decoration: none;
+}
